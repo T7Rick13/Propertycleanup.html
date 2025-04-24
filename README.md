@@ -19,3 +19,17 @@ phase 2
 -debug
 -test
 -maintain
+
+Lines
+-198
+-231
+-192
+-278
+
+ROUGH DRAFT WEBSITE COMPLETE
+4/17/2025-4/24/2025
+
+REVISE BEFORE POST
+CONTACTUS has revisions
+
+-IMGS used in comments
